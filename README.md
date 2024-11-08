@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&lines=Desarrollador+Web+Full-Stack;Aprendiz+Eterno" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=400&lines=Desarrollador+Web+Full-Stack" alt="Typing SVG" /></a>
 </p>
 
 
