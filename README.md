@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     
     <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,php,java,cs,cpp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,php,java,cs,cpp&perline=12" />
   </a>
 </p>
 
