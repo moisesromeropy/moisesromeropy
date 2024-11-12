@@ -118,7 +118,7 @@ Here are some ideas to get you started:
       </p>
     <p align="center">
         <a href="https://youtu.be/tsWP85h8XIs?si=NHvVRtg-kOEV4YBY" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@moises_romeropy"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@moisesromeropy" /></a>
+      <a href="https://github.com/moisesromeropy/PROYECTO-ECOMMERCE" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@moisesromeropy" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
@@ -162,4 +162,4 @@ Here are some ideas to get you started:
 
 
 
-Last Edited on: 08/11/2024
+Last Edited on: 12/11/2024
