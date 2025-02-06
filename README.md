@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Desarrollador Web Fullstack.
 - Apasionado por el aprendizaje continuo y en constante exploración de nuevas tecnologías.
 - Actualmente cursando el último año de Análisis de Sistemas Informáticos.
-- Abierto a nuevas oportunidades laborales o pasantías. [Aquí está mi CV](https://drive.google.com/file/d/17caJ2_rAjfzL352dHufrfMAlIFRpvUo2/view?usp=sharing)
+- Abierto a nuevas oportunidades laborales o pasantías. [Aquí está mi CV](https://drive.google.com/file/d/1filLR-CrYrHfYzZioBhngicSk0hYWMI1/view?usp=drive_link)
 
 <br><br>
 
